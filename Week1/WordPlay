@@ -12,7 +12,7 @@ public class WordPlay {
         }
         return false;
     }
-   
+   //Alternative way:
     public Boolean isVowel2(char ch) {
         String vowels = "aeiou";
         char lowkey = Character.toLowerCase(ch);
